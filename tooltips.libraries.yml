@@ -1,0 +1,17 @@
+tooltips.js:
+  remote: //cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js
+  license:
+    name: MIT
+    gpl-compatible: true
+  js:
+    //cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js: { type: external, scope: footer }
+    js/tooltips.js: {scope: footer}
+
+  tooltips.css:
+    remote: //cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css
+    license:
+      name: MIT
+      gpl-compatible: true
+  css:
+    theme:
+      //cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css: {}

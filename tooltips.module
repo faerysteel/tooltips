@@ -1,5 +1,17 @@
 <?php
 /**
 * @file tooltips.module
-* A module that provides tooltips in a text formatter.
+* Custom PHP goes here.
 */
+
+/**
+ * Implements hook_theme().
+ */
+function tooltips_theme() {
+  return array(
+    'tooltips_hover_format' => array(
+      'variables' => array('text' => NULL),
+      'template' => 'tooltips-hover-format',
+    ),
+  );
+}
