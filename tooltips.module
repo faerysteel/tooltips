@@ -1,0 +1,5 @@
+<?php
+/**
+* @file tooltips.module
+* A module that provides tooltips in a text formatter.
+*/

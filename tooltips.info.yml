@@ -1,0 +1,4 @@
+name: Tooltips
+type: module
+description: 'Provides a field formatter to add tooltips to text output.'
+core: 8.x

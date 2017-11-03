@@ -1,0 +1,19 @@
+{
+  "name": "faerysteel/tooltips",
+  "description": "Text formatter to provide tooltips.",
+  "type": "drupal-module",
+  "homepage": "https://github.com/faerysteel/tooltips",
+  "authors": [
+    {
+      "name": "Lisa Godare",
+      "homepage": "https://github.com/faerysteel",
+      "role": "Creator"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/faerysteel/tooltips/issues",
+    "source": "https://github.com/faerysteel/tooltips"
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev"
+}
